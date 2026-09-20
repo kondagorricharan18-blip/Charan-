@@ -1,0 +1,6 @@
+{
+  "name": "Game Dashboard Simulator",
+  "description": "A high-fidelity battle royale game interface mockup featuring a simulated unlimited currency and unlocked inventory system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
